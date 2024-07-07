@@ -9,7 +9,5 @@ An example video file and the resulting processed video can be found in this dir
 
 An article explaining this project can be found here.
 
-Files:
-CVProject_07_Jul_2024.ipynb (complete project demo)
-7515858-hd_1080_1920_30fps.mp4 (input demo video)
-final.mp4 (output demo video)
+### Files:
+CVProject_07_Jul_2024.ipynb (complete project demo), 7515858-hd_1080_1920_30fps.mp4 (input demo video), final.mp4 (output demo video)
